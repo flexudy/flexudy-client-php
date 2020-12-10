@@ -1,0 +1,24 @@
+{
+  "name": "flexudy/flexudy-client-php",
+  "type": "library",
+  "description": "Flexudy PHP REST API Client. Generate summaries and flashcards automatically. Visit flexudy.com to learn more.",
+  "keywords": [
+    "auto summary",
+    "auto question generator",
+    "nlp",
+    "artificial intelligence",
+    "ilias",
+    "moodle",
+    "e-learning"
+  ],
+  "homepage": "https://flexudy.com",
+  "license": "Apache License 2.0",
+  "authors": [
+    {
+      "name": "Pascal Zoleko",
+      "email": "pascal.zoleko@flexudy.com",
+      "homepage": "https://github.com/zolekode",
+      "role": "Researcher"
+    }
+  ]
+}
